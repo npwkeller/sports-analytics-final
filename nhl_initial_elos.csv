@@ -1,0 +1,39 @@
+team,conference,division,rating,inaugural_season
+Toronto Maple Leafs,eastern,atlantic,1500,1917
+Montreal Canadiens,eastern,atlantic,1500,1917
+Boston Bruins,eastern,atlantic,1500,1924
+Detroit Red Wings,eastern,atlantic,1500,1926
+Buffalo Sabres,eastern,atlantic,1400,1970
+Ottawa Senators,eastern,atlantic,1400,1992
+Tampa Bay Lightning,eastern,atlantic,1400,1992
+Florida Panthers,eastern,atlantic,1400,1993
+New York Rangers,eastern,metropolitan,1500,1926
+Pittsburgh Penguins,eastern,metropolitan,1400,1967
+Philadelphia Flyers,eastern,metropolitan,1400,1967
+New York Islanders,eastern,metropolitan,1400,1972
+Washington Capitals,eastern,metropolitan,1400,1974
+New Jersey Devils,eastern,metropolitan,1400,1974
+Carolina Hurricanes,eastern,metropolitan,1400,1979
+Columbus Blue Jackets,eastern,metropolitan,1400,2000
+Chicago Blackhawks,western,central,1500,1926
+Dallas Stars,western,central,1400,1967
+St. Louis Blues,western,central,1400,1967
+Colorado Avalanche,western,central,1400,1979
+Nashville Predators,western,central,1400,1998
+Winnipeg Jets,western,central,1400,1999
+Minnesota Wild,western,central,1400,2000
+Los Angeles Kings,western,pacific,1400,1967
+Vancouver Canucks,western,pacific,1400,1970
+Calgary Flames,western,pacific,1400,1972
+Arizona Coyotes,western,central,1400,1979
+Edmonton Oilers,western,pacific,1400,1979
+San Jose Sharks,western,pacific,1400,1991
+Anaheim Ducks,western,pacific,1400,1993
+Ottawa Senators (1st),NA,NA,1500,1917
+Montreal Wanderers,NA,NA,1500,1917
+New York Americans,NA,NA,1500,1925
+Montreal Maroons,NA,NA,1500,1924
+Pittsburgh Pirates,NA,NA,1500,1925
+Cleveland Barons,NA,NA,1400,1967
+Vegas Golden Knights,western,pacific,1400,2017
+Seattle Kraken,western,pacific,1400,2021
